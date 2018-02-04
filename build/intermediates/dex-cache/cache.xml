@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/tayyab/.android/build-cache/5e234aaf9ff543d634afad6fcb6c3dc1aeab421d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e99fcd8f4ef3d609f09ac8279a48ba3073b354ad">
+        <dex dex="/home/tayyab/Downloads/RPiCameraViewer-master/app/build/intermediates/pre-dexed/debug/classes_0afbeb48d2b8eb43cd78ea64ed2300d07109f4ea.jar" />
+    </item>
+
+</items>
